@@ -18,5 +18,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }
         Log.e("git", "onCreate:  master 02" )
+        Log.e("git", "onCreate:  master 03" )
+        Log.e("git", "onCreate:  master 04" )
     }
 }
