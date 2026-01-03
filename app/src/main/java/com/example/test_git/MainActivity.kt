@@ -17,5 +17,4 @@ class MainActivity : AppCompatActivity() {
             insets
         }
     }
-    warning: in the working copy of 'gradlew.bat', CRLF will be replaced by LF the next time Git touches it
 }
